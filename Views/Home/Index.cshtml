@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<head>
+    <style>
+
+        #about-this-university {
+
+        }
+
+        #about-this-page {
+
+        }
+    </style>
+</head>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to our academic portal</h1>
+    <div id="about-this-university">
+        <h2>About our University</h2>
+        <p>This is a paragraph about the University</p>
+    </div>
+    <div id="about-this-page">
+        <h2>About this website</h2>
+        <p>This is a paragraph about the Page</p>
+    </div>
+</div>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="InformationTechnology">Information Technology</a>
+<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Business">Business</a>
+<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Politics">Politics</a>
+
+

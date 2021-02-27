@@ -1,0 +1,12 @@
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.deps.json
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.runtimeconfig.json
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.runtimeconfig.dev.json
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.dll
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\bin\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.pdb
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.AssemblyInfo.cs
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.dll
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.pdb
+C:\Users\asus\Downloads\Fiver.Mvc.FileUpload-master\Fiver.Mvc.FileUpload\obj\Debug\netcoreapp2.0\Fiver.Mvc.FileUpload.genruntimeconfig.cache
