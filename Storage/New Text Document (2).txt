@@ -1,0 +1,14 @@
+Section A
+Explain why scrum is suitable for the projecat (definition, advan, diadvan,...) and why not. Provide example from the case study.
+Section B
+Create a new list of base line requirements.
+incremental approach = development loop (ex: spiral approach)
+Explain chosen method (moscow/timebox)
+High level requirements = Functional requirements only
+Requirements should be change to be suitable based on the case study
+B2.2: Explain the reasons based on knowledge of web-design fundamentals. Ex: A website must have a homepage, an e-commerce website must have login page, etc..
+Section C
+2 example for 4 aspects of LESPI > 8 examples
+provide examples from case study for BCS Code of Conduct
+
+Assumption = The description of the system (what it is, what it does, user requirements)

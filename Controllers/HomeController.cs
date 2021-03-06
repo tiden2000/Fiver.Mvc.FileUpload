@@ -39,7 +39,7 @@ namespace Fiver.Mvc.FileUpload.Controllers
                 return Content("file not selected");
 
             var path = Path.Combine(
-                        Directory.GetCurrentDirectory(), "wwwroot", 
+                        Directory.GetCurrentDirectory(), "Storage", 
                         file.GetFilename());
 
             using (var stream = new FileStream(path, FileMode.Create))
@@ -59,7 +59,7 @@ namespace Fiver.Mvc.FileUpload.Controllers
             foreach (var file in files)
             {
                 var path = Path.Combine(
-                        Directory.GetCurrentDirectory(), "wwwroot", 
+                        Directory.GetCurrentDirectory(), "Storage", 
                         file.GetFilename());
 
                 using (var stream = new FileStream(path, FileMode.Create))
@@ -79,7 +79,7 @@ namespace Fiver.Mvc.FileUpload.Controllers
                 return Content("file not selected");
 
             var path = Path.Combine(
-                        Directory.GetCurrentDirectory(), "wwwroot",
+                        Directory.GetCurrentDirectory(), "Storage",
                         model.FileToUpload.GetFilename());
 
             using (var stream = new FileStream(path, FileMode.Create))
@@ -108,7 +108,7 @@ namespace Fiver.Mvc.FileUpload.Controllers
 
             var path = Path.Combine(
                            Directory.GetCurrentDirectory(),
-                           "wwwroot", filename);
+                           "Storage", filename);
 
             var memory = new MemoryStream();
             using (var stream = new FileStream(path, FileMode.Open))

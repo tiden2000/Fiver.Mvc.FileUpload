@@ -1,16 +1,23 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
 <head>
     <style>
 
         #about-this-university {
-
+            width: 500px;
+            float: left;
+            border-top: 1px solid black;
+            margin-top: 100px;
+            text-align: left;
         }
 
         #about-this-page {
-
+            width: 500px;
+            float: right;
+            border-top: 1px solid black;
+            margin-top: 100px;
+            text-align: left;
         }
     </style>
 </head>
@@ -26,13 +33,3 @@
         <p>This is a paragraph about the Page</p>
     </div>
 </div>
-
-@{
-    ViewBag.Title = "Home Page";
-}
-
-<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="InformationTechnology">Information Technology</a>
-<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Business">Business</a>
-<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Politics">Politics</a>
-
-
